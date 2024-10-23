@@ -1,5 +1,3 @@
-# this is a comment PATH = "literature/piece de stockage.md"
-
 from flox import Flox
 
 class Obsidian(Flox):
