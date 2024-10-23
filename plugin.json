@@ -1,0 +1,12 @@
+{
+    "ID": "WordCountabooga",
+    "ActionKeyword": "wc",
+    "Name": "WordCount",
+    "Description": "Count words in your clipboard",
+    "Author": "Dzurg",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "",
+    "IcoPath": "./icon.png",
+    "ExecuteFileName": "run.py"
+}
